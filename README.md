@@ -1,2 +1,2 @@
 # ADRL
-Assignments of Advanced Deep Representation Learning Course
+Assignments - Advanced Deep Representation Learning Course - Aug 2024
